@@ -1,0 +1,29 @@
+{
+  "name": "flowers",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "antd": "^4.18.5",
+    "css-loader": "^6.8.1",
+    "next": "12.0.10",
+    "react": "17.0.2",
+    "react-dom": "^18.2.0",
+    "sass-loader": "^13.3.2",
+    "style-loader": "^3.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.14",
+    "@types/react": "17.0.38",
+    "autoprefixer": "^10.4.2",
+    "eslint": "8.8.0",
+    "eslint-config-next": "12.0.10",
+    "postcss": "^8.4.6",
+    "tailwindcss": "^3.0.18",
+    "typescript": "4.5.5"
+  }
+}
